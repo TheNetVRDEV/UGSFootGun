@@ -4,7 +4,7 @@ An open source backend for Unity Gaming Service to store player data and to set 
 ## project directory
 The project directory may change later.
 
-
+```
 project-root/
 ├── cmd/                  # Entry points for the application
 │   └── server/
@@ -32,7 +32,7 @@ project-root/
 ├── scripts/              # Scripts for deployment or management
 │   └── setup_db.sh
 └── go.mod                # Go module file
-
+```
 
 ## to run the project
 ```cmd
